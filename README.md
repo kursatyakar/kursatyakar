@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kursatyakar
 - 👀 I’m interested in Formula 1 and motorbikes
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Spring Frame
 - 📫 How to reach me kursatyakar03@gmail.com
 
 <!---
